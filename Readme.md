@@ -32,11 +32,5 @@ Hi there! I'm a passionate **iOS Developer** exploring the world of Swift and mo
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
----
-
 Thank you for visiting my profile! 😊 Feel free to explore my repositories and connect with me.
 
