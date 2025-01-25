@@ -62,5 +62,12 @@ Faculty of Applied Mathematics and Informatics, Minsk
 
 ---
 
+## 📖 Courses
+- ![.NET Development](https://img.shields.io/badge/.NET%20Development-EPAM-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+- ![Git Course](https://img.shields.io/badge/Git%20Course-EPAM-512BD4?style=for-the-badge&logo=git&logoColor=white)
+- ![Algorithms and Data Structures](https://img.shields.io/badge/Algorithms%20and%20Data%20Structures-TBank-512BD4?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
 Thank you for visiting my profile! 😊 Feel free to explore my repositories and connect with me.
 
