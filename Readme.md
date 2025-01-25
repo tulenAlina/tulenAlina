@@ -1,6 +1,6 @@
 # Hi, thank you for visiting my profile! 💕
 
-I'm a passionate **iOS Developer** exploring the world of Swift and mobile application development. 
+I am a novice full-stack developer. I'm currently exploring the world of Swift and mobile app development. 
 
 ---
 ## 💌 Connect with Me
