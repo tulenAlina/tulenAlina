@@ -52,7 +52,9 @@ Faculty of Applied Mathematics and Informatics, Minsk
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) 
 ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&logoColor=white) 
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apachemaven&logoColor=white) 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) 
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![NANOCAD](https://img.shields.io/badge/-NANOCAD-FFFFFF?logo=autodesk&logoColor=black) 
+![Qt](https://img.shields.io/badge/-Qt-4E9A2A?logo=qt&logoColor=white) 
 - **Frameworks**: 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
 ![Angular](https://img.shields.io/badge/-Angular-E23237?logo=angular&logoColor=white) 
