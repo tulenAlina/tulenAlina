@@ -4,8 +4,24 @@ I'm a passionate **iOS Developer** exploring the world of Swift and mobile appli
 
 ---
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/alina-yashenok-710873313/)) 
-- [Telegram](https://t.me/alinaYashenok)
+<div align="center"> 
+  <a href="mailto:alinayashenok@yandex.ru">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/alina-yashenok-710873313/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/alinaYashenok" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</div>
+
+---
+
+##🎓 Education
+- 🏫 2020-2022: Gomel State Regional Lyceum, Gomel
+- 🎓 2022-Present: Belarusian State University
+Faculty of Applied Mathematics and Informatics, Minsk
 
 ---
 
