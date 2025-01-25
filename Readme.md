@@ -37,7 +37,8 @@ Faculty of Applied Mathematics and Informatics, Minsk
 ![Objective C](https://img.shields.io/badge/-Objective%20C-438EFF?logo=objectivec&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
 ![Java](https://img.shields.io/badge/-Java-E34F26?logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) 
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-6E4C7E?logo=assembly&logoColor=white)
 - **Databases**: ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![MS SQL Studio](https://img.shields.io/badge/-MS%20SQL%20Studio-CC2927?logo=microsoftsqlserver&logoColor=white)
 - **Web Development**: 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) 
@@ -46,15 +47,18 @@ Faculty of Applied Mathematics and Informatics, Minsk
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![D365/PowerApps](https://img.shields.io/badge/-D365/PowerApps-742774?logo=powerapps&logoColor=white)
-- **Frameworks**: ![MAUI](https://img.shields.io/badge/-MAUI-512BD4?logo=.net&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white) ![LINQ](https://img.shields.io/badge/-LINQ-512BD4?logo=.net&logoColor=white) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white)
-- **Concepts**: OOP, SOLID, DRY, KISS, CLEAN
-- 📱 Swift & SwiftUI
-- 🎨 UIKit
-- 💾 CoreData
-- 🔗 Combine
-- 🌐 RESTful APIs
-- 🛠 Git & Version Control
+- **Tools**: 
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) 
+![Xcode](https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&logoColor=white) 
+![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apachemaven&logoColor=white) 
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) 
+- **Frameworks**: 
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
+![Angular](https://img.shields.io/badge/-Angular-E23237?logo=angular&logoColor=white) 
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) 
+![UIKit](https://img.shields.io/badge/-UIKit-007AFF?logo=apple&logoColor=white) 
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-F05138?logo=apple&logoColor=white)
 
 ---
 
