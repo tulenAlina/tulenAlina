@@ -34,7 +34,6 @@ Faculty of Applied Mathematics and Informatics, Minsk
 - **Programming Languages**: 
 ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white) 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white) 
-![Objective C](https://img.shields.io/badge/-Objective%20C-438EFF?logo=objectivec&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/-Java-E34F26?logo=java&logoColor=white)
