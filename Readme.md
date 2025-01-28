@@ -39,7 +39,10 @@ Faculty of Applied Mathematics and Informatics, Minsk
 ![Java](https://img.shields.io/badge/-Java-E34F26?logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C7E?logo=assembly&logoColor=white)
-- **Databases**: ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![MS SQL Studio](https://img.shields.io/badge/-MS%20SQL%20Studio-CC2927?logo=microsoftsqlserver&logoColor=white)
+- **Databases**: 
+  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) 
+  ![MS SQL Studio](https://img.shields.io/badge/-MS%20SQL%20Studio-CC2927?logo=microsoftsqlserver&logoColor=white) 
+  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 - **Web Development**: 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) 
