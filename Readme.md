@@ -25,7 +25,7 @@ Faculty of Applied Mathematics and Informatics, Minsk
 
 ---
 ## 🌐 Languages
-- 🇬🇧 **English**: Intermediate
+- 🇬🇧 **English**: Upper-Intermediate
 - 🇷🇺 **Russian**: Native
 - 🇧🇾 **Belarusian**: Native
 ---
